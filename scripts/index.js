@@ -35,6 +35,30 @@ const usuarios = [
       name: "Jacqui",
       email: "jacquiHaceCaca@gmail.com",
       password: "diarrea",
+    },
+    {
+      id: 7,
+      name: "Pana",
+      email: "panaCarlos@gmail.com",
+      password: "autos100",
+    },
+    {
+      id: 8,
+      name: "Pedruru",
+      email: "salaberrypedro@outlook.com",
+      password: "devilmon",
+    },
+    {
+      id: 9,
+      name: "Guillin",
+      email: "guillin@gmail.com",
+      password: "guillin100",
+    },
+    {
+      id: 10,
+      name: "Josefina",
+      email: "joserennes@gmail.com",
+      password: "SofiMagui",
     }
   ];
 
