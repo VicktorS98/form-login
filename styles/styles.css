@@ -83,9 +83,10 @@ input {
 } */
 
 #error-container {
-  width: 90%;
+  width: 100%;
   display: flex;
   margin: 0 auto;
+  padding: 0 1.5rem;
 }
 
 .hidden {
