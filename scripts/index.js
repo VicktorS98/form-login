@@ -84,7 +84,7 @@ $(".login-btn").click(function() {
     } else if ($("#password-input").val().length < 5) {
       $("#loader").addClass("hidden");
       $("#error-container").removeClass("hidden");
-      $("#error-container").text("Error. La contraseña tiene que tener más de 5 carácteres.");
+      $("#error-container").text("Error. La contraseña tiene que tener al menos 5 carácteres.");
       $("#error-container").css("color", "red");
       } else {
       $("#loader").addClass("hidden");
